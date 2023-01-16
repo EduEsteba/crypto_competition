@@ -25,7 +25,7 @@ v6.2.6
 
 - Quin tipus de hash hi ha al fitxer hashes.txt?
 ```
-Hi ha el hash MD5 amb "salt". 
+Hi ha el hash MD5 amb "salt", començen per $1$. 
 ```
 - Cerca informació sobre el tipus de hash i descriu-me quant de vulnerable és.
 ```
