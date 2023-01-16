@@ -43,6 +43,10 @@ En informàtica, una col·lisió hash és el que passa quan dues entrades difere
 ```
 - Fes servir hashcat per petar el màxim de hashos que puguis
 
+172 hash, https://github.com/AngelMascaro/girona_crack_hash_challenge 
+
+
+
 Comanda per executar diccionaris
 
 ```
@@ -60,4 +64,5 @@ Webs on es poden trobar diccionaris:
 - https://weakpass.com/
 - https://wiki.skullsecurity.org/index.php/Passwords
  
+
 
